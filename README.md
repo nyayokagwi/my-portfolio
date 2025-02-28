@@ -1,12 +1,18 @@
-# Task Manager (To-Do List App)
+# My Portfolio
+
+Welcome to my portfolio! This project showcases my skills and projects as a web developer.
 
 ## Features
-- Add, delete, and view tasks.
-- Mark tasks as complete.
-- Edit task details.
-- Filter tasks by completion status.
-- Sort tasks by due date or title.
-- Persist data using localStorage.
+- Responsive design
+- Clean and modern layout
+- Easy to customize
+
+## How to Use
+1. Clone the repository.
+
+
+## License
+This project is licensed under the MIT License.
 
 ## Deployment
-The app is deployed on Vercel: [Task Manager](https://task-manager-beige-eight.vercel.app/)
+The web is deployed on Vercel: [Portfolio](https://my-portfolio-45ip.vercel.app/)
